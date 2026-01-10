@@ -1,0 +1,1 @@
+var x = {"disabled":"You have to agree with terms and conditions before you can use Seal Subscriptions."};

@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ornexis.com	TRUE	/	FALSE	1999999999	_shopify_analytics	:AZukhZdEAAEA4LMMAuAJbJbVtBD17PZSA4TxHJdK0q36Nhfn0DfhjdV-nfHqnGulBbcne2GkCFHXsOgSSbYzr3Yc0d5zeOs:
+ornexis.com	TRUE	/	FALSE	1999999999	localization	US
+ornexis.com	TRUE	/	FALSE	1999999999	cart	hWN7QAppfAZ3y6A2BbERblBK%3Fkey%3D5156cbb0d713db537125722dec1aff32
+ornexis.com	TRUE	/	FALSE	1999999999	_shopify_essential	:AZukhZcqAAEAc4Nh1TuhtCd32l8C33FWu6fVsye1NYXJSKTcy7QdHlPqNOLNP1JWrDMysLXKTaJuOrXMq-XBqIeZzBAcOOLry-71NRFf5JKAhew6P3I60ksojzN2ap5F5TDglOMs0rY80yfLUt7dAdC7zNQ1j3qSJNqkD35T_uosns855ZYs-HoaqMeEB4RnCjhc0hSosnG3md_gIjgpaSYABkYFJBVmgzjvgn1-acFj1nX4APSPdP3TDbD0U3h0ld5_nUBfr_7XUaxgP-Q-Pem-Os3e8WpX2V3K2h3eeh4VgkXcD7Vr4YzX0Tec-VdAZSxYEqhzRXOAskjSI-OTCCcRkeLp2ErjXuQdAb1LQRXhYuuQD3YleoCj:
+ornexis.com	TRUE	/	FALSE	1999999999	Priority	High
+ornexis.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+ornexis.com	TRUE	/	FALSE	1999999999	_shopify_y	8964a367-216b-456f-9a9f-719ebd74893a
+ornexis.com	TRUE	/	FALSE	1999999999	_shopify_s	0f7cbd42-db0e-4ced-b8bb-4fb87f32bcc1
+ornexis.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

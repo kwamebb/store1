@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 09 Jan 2026 15:49:34 at http://ornexis.com/pages/ems-edema-t2 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://ornexis.com/pages/ems-edema-t2 -O1 "C:\My Web Sites\riptheseniggas" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:49:41	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://shop.app/checkouts/internal/preloads.js?locale=en-US&shop_id=96013189463
+15:50:39	Error: 	"Not Found" (404) at link https://ornexis.com/pages/window.location.toString( (from https://ornexis.com/pages/ems-edema-t2)
+15:50:39	Error: 	"Not Found" (404) at link https://ornexis.com/pages/^(/w{2}-w{2})/ (from https://ornexis.com/pages/ems-edema-t2)
+15:50:39	Error: 	"Not Found" (404) at link https://ornexis.com/pages/window.location.href (from https://ornexis.com/pages/ems-edema-t2)
+15:50:39	Error: 	"Not Found" (404) at link https://ornexis.com/pages/modules/v2/chunk.common_B8yXDTDb.esm.js (from https://ornexis.com/pages/ems-edema-t2)
+15:50:39	Error: 	"Not Found" (404) at link https://ornexis.com/pages/modules/v2/client.shop-login-button_DrVPCwAQ.en.esm.js (from https://ornexis.com/pages/ems-edema-t2)
+15:50:39	Error: 	"Not Found" (404) at link https://ornexis.com/pages/rawHref, window.location.origin (from https://ornexis.com/pages/ems-edema-t2)
+15:50:39	Error: 	"Not Found" (404) at link https://ornexis.com/pages/POST (from https://ornexis.com/pages/ems-edema-t2)
+15:50:39	Error: 	"Not Found" (404) at link https://ornexis.com/pages/heatmap.php (from https://ornexis.com/pages/ems-edema-t2)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 5 seconds : 76 links scanned, 67 files written (57839812 bytes overall) [55135670 bytes received at 848241 bytes/sec], 4632159 bytes transferred using HTTP compression in 44 files, ratio 23%, 5.4 requests per connection
+(8 errors, 1 warnings, 0 messages)

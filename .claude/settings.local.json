@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(du -sh:*)",
+      "Bash(for dir in \"C:\\\\My Web Sites\\\\riptheseniggas\"/*)",
+      "Bash(do if [ -d \"$dir\" ])",
+      "Bash(xxd:*)",
+      "Bash(python3:*)",
+      "Bash(powershell:*)",
+      "Bash(del \"C:\\\\My Web Sites\\\\riptheseniggas\\\\fix_comment.ps1\")",
+      "Bash(Select-String -Pattern \"EMS\" -AllMatches)",
+      "Bash(ForEach-Object { $_Matches.Value })",
+      "Bash(python:*)",
+      "Bash(dir \"C:\\\\My Web Sites\\\\riptheseniggas\\\\ornexis.com\\\\pages\\\\*.html\" /b)"
+    ]
+  }
+}
