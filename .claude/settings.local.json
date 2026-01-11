@@ -12,7 +12,10 @@
       "Bash(Select-String -Pattern \"EMS\" -AllMatches)",
       "Bash(ForEach-Object { $_Matches.Value })",
       "Bash(python:*)",
-      "Bash(dir \"C:\\\\My Web Sites\\\\riptheseniggas\\\\ornexis.com\\\\pages\\\\*.html\" /b)"
+      "Bash(dir \"C:\\\\My Web Sites\\\\riptheseniggas\\\\ornexis.com\\\\pages\\\\*.html\" /b)",
+      "Bash(findstr:*)",
+      "Bash(del \"\\\\?\\\\C:\\\\My Web Sites\\\\riptheseniggas\\\\nul\")",
+      "Bash(cmd /c \"del \\\\?\\\\C:\\\\My Web Sites\\\\riptheseniggas\\\\nul\")"
     ]
   }
 }
